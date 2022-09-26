@@ -1,0 +1,18 @@
+* {
+    background-color:beige;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+ul {
+    list-style: none;   
+}
+
+ul a {
+    color: black;
+    text-decoration: none;
+}
+
+ul a:hover {
+    color: red;
+    text-decoration:underline;
+}
